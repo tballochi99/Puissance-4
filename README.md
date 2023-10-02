@@ -8,7 +8,7 @@ Projet individuel consiste en la création d'un module JS Puissance 4.
 - [Fonctionnalités](#fonctionnalités)
 - [Installation](#installation)
 
-## Aperçu
+## Aperçu   
 
 L'objectif était de recréer un Puissance 4, dans un simple module JavaScript.
 
